@@ -1,7 +1,8 @@
 Upload-multiple-files-from-a-folder
 --------------------------------------
 1)Clone this code using below command
- command :: git clone <repo url>
+
+ command :: git clone repo_url
  
 2)check the "upload" folder permission from root directory.give full permission to upload folder  
 
@@ -14,7 +15,7 @@ Upload-multiple-files-from-a-folder
 
 Thanks
 
-Sreenath886@gmail.com
+sreenath886@gmail.com
 
 
 
